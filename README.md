@@ -1,3 +1,7 @@
+# Vaadin test project
+
+This project illustrates the issue https://github.com/vaadin/flow-components/issues/6876.
+
 # My App
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
